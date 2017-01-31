@@ -1,0 +1,22 @@
+{
+  "name": "danismag/multi-exception",
+  "type": "library",
+  "description": "MultiException class for more efficient validate data",
+  "minimum-stability": "stable",
+  "license": "gnu-gpl3",
+  "authors": [
+    {
+      "name": "Danis Magadeev",
+      "email": "danismag@bk.ru",
+      "role": "Packer"
+    }
+  ],
+  "require": {
+      "php": ">=7.*"
+  },
+  "autoload": {
+      "psr-4": {
+          "danismag\\MultiException\\": "danismag/MultiException/"
+      }
+  }
+}

@@ -1,0 +1,1 @@
+Library contains only one class - MultiException enabling to collect and throw many exceptions at once
