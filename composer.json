@@ -2,7 +2,7 @@
   "name": "danismag/multi-exception",
   "type": "library",
   "description": "MultiException class for more efficient validate data",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev-master",
   "license": "gnu-gpl3",
   "authors": [
     {
